@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Gurnoor 👋</h1>
 
 <p align="center">
   <b>Full Stack Developer</b> · Passionate about building clean, functional web applications
@@ -12,9 +12,9 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I'm currently building full stack projects using **React, Node.js, and Python**
-- 🌱 Continuously leveling up my skills in **Django, REST APIs, and modern JavaScript**
-- 💼 Actively looking for **internship roles** in full stack or web development
+- 🔭 I'm currently building learning **HTML, CSS, JavaScript** to start building full stack projects
+- 🌱 Continuously leveling up my skills in **Python, C, Java, JavaScript**
+- 💼 Actively looking for **internship roles** in full stack or software development
 - ⚡ I enjoy turning ideas into real, working applications
 
 ---
@@ -27,19 +27,10 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GPannu77&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GPannu77&layout=compact&theme=default&hide_border=true" height="160"/>
-</p>
-
----
-
 ## 📫 Get In Touch
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gurnoor-pannu-53b256265/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:gurnoorpannu4771@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
