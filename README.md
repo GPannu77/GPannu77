@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I'm currently learning **HTML, CSS, JavaScript** to start building full stack projects
+- 🔭 I'm currently learning **HTML, CSS, JavaScript, SQL** to start building full stack projects
 - 🌱 Continuously leveling up my skills in **Python, C, Java, JavaScript**
 - 💼 Actively looking for **internship roles** in full stack or software development
 - ⚡ I enjoy turning ideas into real, working applications
@@ -22,7 +22,7 @@
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,flask,js,react,html,css,git,github,vscode,eclipse&perline=11" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,flask,js,sql,html,css,git,github,vscode,eclipse&perline=11" />
 </p>
 
 ---
