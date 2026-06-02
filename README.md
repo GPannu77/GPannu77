@@ -12,7 +12,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 I'm currently learning **HTML, CSS, JavaScript, SQL**
+- 🔭 I'm currently learning **JavaScript, SQL**
 - 🌱 Continuously leveling up my skills in **Python, C, Java, JavaScript**
 - 💼 Actively looking for **internship roles** in full stack or software development
 - ⚡ I enjoy turning ideas into real, working applications
