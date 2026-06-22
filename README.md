@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gurnoor 👋</h1>
 
 <p align="center">
-  <b>Full Stack Developer</b> · Passionate about building clean, functional web applications
+  <b>Software Developer</b> · Passionate about building clean, functional web applications
 </p>
 
 <p align="center">
