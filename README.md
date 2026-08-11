@@ -398,8 +398,6 @@ Open To:
   - Collaborative Software Projects
   - Open Source Contributions
 
-## Connect
-
 <div align="center">
 
 <a href="mailto:gurnoor4771@gmail.com">
