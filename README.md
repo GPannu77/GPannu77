@@ -278,20 +278,8 @@ Focused on applying computer science fundamentals through practical software dev
 
 <div align="center">
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/T0oJmOLMdY/">
   <img src="https://img.shields.io/badge/LeetCode-Profile-312E81?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-4338CA?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</a>
-
-<a href="https://www.hackerrank.com/">
-  <img src="https://img.shields.io/badge/HackerRank-Profile-4C1D95?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-
-<a href="https://www.codechef.com/">
-  <img src="https://img.shields.io/badge/CodeChef-Profile-6D28D9?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 
 </div>
