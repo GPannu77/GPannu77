@@ -398,3 +398,20 @@ Open To:
   - Collaborative Software Projects
   - Open Source Contributions
 
+## Connect
+
+<div align="center">
+
+<a href="mailto:gurnoor4771@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Contact-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/gurnoorpannu77">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/GPannu77">
+  <img src="https://img.shields.io/badge/GitHub-Follow-312E81?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
