@@ -274,26 +274,6 @@ Focused on applying computer science fundamentals through practical software dev
 
 ---
 
-## Certifications
-
-### AWS
-
-[![AWS](https://img.shields.io/badge/AWS-Certifications-312E81?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
-
-### Oracle
-
-[![Oracle](https://img.shields.io/badge/Oracle-Certifications-4338CA?style=for-the-badge&logo=oracle&logoColor=white)](https://education.oracle.com/oracle-certification/)
-
-### NPTEL
-
-[![NPTEL](https://img.shields.io/badge/NPTEL-Certifications-4C1D95?style=for-the-badge&logo=academia&logoColor=white)](https://nptel.ac.in/)
-
-### Cisco
-
-[![Cisco](https://img.shields.io/badge/Cisco-Certifications-6D28D9?style=for-the-badge&logo=cisco&logoColor=white)](https://www.cisco.com/site/us/en/learn/training-certifications/certifications/index.html)
-
----
-
 ## Coding Profiles
 
 <div align="center">
