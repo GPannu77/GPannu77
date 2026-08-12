@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/gurnoorpannu77">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:gurnoor4771@gmail.com">
   <img src="https://img.shields.io/badge/Email-4F46E5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -291,19 +291,8 @@ Focused on applying computer science fundamentals through practical software dev
 
 <div align="center">
 
-<a href="https://github.com/GPannu77">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GPannu77&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" alt="GitHub Stats"/>
-</a>
+[![View GitHub Profile](https://img.shields.io/badge/View-GitHub%20Profile-312E81?style=for-the-badge&logo=github)](https://github.com/GPannu77)
 
-<a href="https://github.com/GPannu77">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GPannu77&layout=compact&langs_count=8&hide_border=true&bg_color=0D0B1A&title_color=A78BFA&text_color=C4B5FD" alt="Top Languages"/>
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/GPannu77">
-  <img src="https://streak-stats.demolab.com/?user=GPannu77&theme=transparent&hide_border=true&background=0D0B1A&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8" alt="GitHub Streak"/>
-</a>
 
 </div>
 
@@ -313,9 +302,7 @@ Focused on applying computer science fundamentals through practical software dev
 
 <div align="center">
 
-<a href="https://github.com/GPannu77">
-  <img src="https://github-profile-trophy.vercel.app/?username=GPannu77&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
-</a>
+[![View GitHub Profile](https://img.shields.io/badge/View-GitHub%20Profile-312E81?style=for-the-badge&logo=github)](https://github.com/GPannu77)
 
 </div>
 
@@ -387,7 +374,7 @@ Open To:
 </a>
 
 <a href="https://www.linkedin.com/in/gurnoorpannu77">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/GPannu77">
