@@ -279,7 +279,7 @@ Focused on applying computer science fundamentals through practical software dev
 
 <div align="center">
 
-<a href="https://leetcode.com/u/T0oJmOLMdY/">
+<a href="https://leetcode.com/u/GPannu77/">
   <img src="https://img.shields.io/badge/LeetCode-Profile-312E81?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 </a>
 
