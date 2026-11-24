@@ -12,7 +12,6 @@
 
 [![BSc Computer Science](https://img.shields.io/badge/BSc%20Computer%20Science-Wilfrid%20Laurier%20University-4C1D95?style=for-the-badge&logo=google-scholar&logoColor=white)](https://www.wlu.ca/)
 [![GPA](https://img.shields.io/badge/GPA-3.9%2F4.0-6D28D9?style=for-the-badge&logo=academia&logoColor=white)](https://www.wlu.ca/)
-[![Dean's Honour Roll](https://img.shields.io/badge/Dean%27s%20Honour%20Roll-2024%2F2025-4F46E5?style=for-the-badge)](https://www.wlu.ca/)
 [![Canada](https://img.shields.io/badge/Canada-312E81?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/search/?api=1&query=Milton%2C%20Ontario%2C%20Canada)
 
 <br/>
